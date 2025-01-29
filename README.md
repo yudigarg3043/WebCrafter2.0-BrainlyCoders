@@ -5,6 +5,7 @@ WebCrafter 2.0 is a modern and interactive e-commerce web application designed a
 
 Live Demo:
 Check out the live demo of the project at the following link:
+https://yudigarg3043.github.io/WebCrafter2.0-BrainlyCoders/
 WebCrafter 2.0 - BrainlyCoders
 
 Features
