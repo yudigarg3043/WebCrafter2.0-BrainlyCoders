@@ -551,7 +551,7 @@ toys: [
         type: "Car Set",
         price: 5999,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/91jB9Ntbw7L.AC_SY679.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwn9qmbAfwioJDVFB9MgG4vffjlyEQCGsdOw&s"
     },
     {
         id: "toy-4",
@@ -560,7 +560,7 @@ toys: [
         type: "Blaster Gun",
         price: 1999,
         rating: 4.6,
-        image: "https://m.media-amazon.com/images/I/51D5VKTbmYL.AC_SY450.jpg"
+        image: "https://m.media-amazon.com/images/I/81mEHSkhnnL.jpg"
     },
     {
         id: "toy-5",
@@ -569,7 +569,7 @@ toys: [
         type: "Learning Toy",
         price: 3499,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/91kmV5iP2QL.AC_SY450.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjRF8SsbVygXiHSk5y9i7QnuYLhuNO9cveVw&s"
     },
     {
         id: "toy-6",
@@ -578,7 +578,7 @@ toys: [
         type: "Craft Kit",
         price: 1299,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/91l6J7aYbQL.AC_SY450.jpg"
+        image: "https://cdn.pixelspray.io/v2/black-bread-289bfa/HrdP6X/original/hamleys-product/491902680/665/491902680-2.webp"
     },
     {
         id: "toy-7",
@@ -587,7 +587,7 @@ toys: [
         type: "Doll",
         price: 999,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/91d28SFlWsL.AC_SY450.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w9nbIA42DRatGrSicq9Q7cSTXIaQaq33oA&s"
     },
     {
         id: "toy-8",
@@ -596,7 +596,7 @@ toys: [
         type: "Vehicle Toy",
         price: 1299,
         rating: 4.6,
-        image: "https://m.media-amazon.com/images/I/61O4kAbBO5L.AC_SY450.jpg"
+        image: "https://m.media-amazon.com/images/I/71WM9opshvL.jpg"
     },
     {
         id: "toy-9",
@@ -605,7 +605,7 @@ toys: [
         type: "Building Set",
         price: 2499,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/81WOK2vP71L.AC_SY679.jpg"
+        image: "https://m.media-amazon.com/images/I/81FmDND7kAL._AC_UF1000,1000_QL80_.jpg"
     },
     {
         id: "toy-10",
@@ -614,7 +614,7 @@ toys: [
         type: "Doll",
         price: 799,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/91ftv+gs6uL.AC_SY679.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfEu5edUzFpe1ZichdBF9MD41jfaUz4BGekg&s"
     },
     {
         id: "toy-11",
@@ -623,7 +623,7 @@ toys: [
         type: "Puzzle",
         price: 599,
         rating: 4.6,
-        image: "https://m.media-amazon.com/images/I/91g-I5HLLQL.AC_SY450.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgML2rUiA1JcayVAgB8nkElxO_oKEsozVx5Q&s"
     },
     {
         id: "toy-12",
@@ -890,7 +890,7 @@ beauty: [
         type: "Foundation",
         price: 4200,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/91YWx9R7tLL.AC_SY679.jpg"
+        image: "https://media.ulta.com/i/ulta/2309433?w=720&fmt=png"
     },
     {
         id: "beauty-2",
@@ -899,7 +899,7 @@ beauty: [
         type: "Foundation",
         price: 799,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/81xTAvHGR5L.AC_SY679.jpg"
+        image: "https://th.bing.com/th/id/OIP.VEOB33riR8A6kkQEu3yuAwHaHa?rs=1&pid=ImgDetMain"
     },
     {
         id: "beauty-3",
@@ -908,7 +908,7 @@ beauty: [
         type: "Mascara",
         price: 899,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/91mgA44xP6L.AC_SY679.jpg"
+        image: "https://th.bing.com/th/id/OIP.HumiYORTVD0Z54AWLvo2kwHaHa?rs=1&pid=ImgDetMain"
     },
     {
         id: "beauty-4",
@@ -917,7 +917,7 @@ beauty: [
         type: "Lipstick",
         price: 499,
         rating: 4.6,
-        image: "https://m.media-amazon.com/images/I/91X9HKU4KFL.AC_SY679.jpg"
+        image: "https://www.cherrycosmetics.co.uk/wp-content/uploads/2020/10/Revlon20Superlustrous20Lipstick2045020Gentlemen20Prefer20Pink.jpg"
     },
     {
         id: "beauty-5",
@@ -926,7 +926,7 @@ beauty: [
         type: "Moisturizer",
         price: 4200,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/91v7H4bHk7L.AC_SY679.jpg"
+        image: "https://qvc.scene7.com/is/image/QVC/a/10/a535310.001"
     },
     {
         id: "beauty-6",
@@ -935,7 +935,7 @@ beauty: [
         type: "Concealer",
         price: 2999,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/81F3lWX26AL.AC_SY679.jpg"
+        image: "https://th.bing.com/th/id/OIP.tW5MjFhXxAB7mvShd4FlkAHaHa?w=191&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7"
     },
     {
         id: "beauty-7",
@@ -944,7 +944,7 @@ beauty: [
         type: "Foundation",
         price: 3599,
         rating: 4.9,
-        image: "https://m.media-amazon.com/images/I/91MbLoFY2ML.AC_SY679.jpg"
+        image: "https://i5.walmartimages.com/asr/a971633b-1454-4df3-97b9-0b41c23d948e_1.656881d1a248d720fe17d961f7a2b9d3.jpeg"
     },
     {
         id: "beauty-8",
@@ -953,7 +953,7 @@ beauty: [
         type: "Lip Gloss",
         price: 399,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/71B-cTkfD9L.AC_SY679.jpg"
+        image: "https://th.bing.com/th/id/OIP.OILY5U8datCgY6cvGmDmcgHaLH?rs=1&pid=ImgDetMain"
     },
     {
         id: "beauty-9",
@@ -962,7 +962,7 @@ beauty: [
         type: "Face Cream",
         price: 799,
         rating: 4.6,
-        image: "https://m.media-amazon.com/images/I/71X94+2Iq-L.AC_SY679.jpg"
+        image: "https://th.bing.com/th/id/OIP.1TMTmRNgL2oEIopjt8ziBgAAAA?w=115&h=196&c=7&r=0&o=5&dpr=1.5&pid=1.7"
     },
     {
         id: "beauty-10",
@@ -971,7 +971,7 @@ beauty: [
         type: "Serum",
         price: 799,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/81ZyDJ5qY+L.AC_SY679.jpg"
+        image: "https://th.bing.com/th/id/OIP.c3O6U3Nr2orMR9K-4hJuuAHaHa?w=177&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
     },
     {
         id: "beauty-11",
