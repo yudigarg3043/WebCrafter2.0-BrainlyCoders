@@ -1,0 +1,529 @@
+            electronics: [
+    {
+        id: "ele-1",
+        name: "Apple iPhone 15",
+        brand: "Apple",
+        type: "Smartphone",
+        price: 99999,
+        rating: 4.8,
+        image: "https://m.media-amazon.com/images/I/71zdoEVh-UL._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-2",
+        name: "Sony WH-1000XM5 Headphones",
+        brand: "Sony",
+        type: "Noise Cancelling Headphones",
+        price: 24999,
+        rating: 4.9,
+        image: "https://m.media-amazon.com/images/I/91CQCk1Y06L._AC_SY450_.jpg"
+    },
+    {
+        id: "ele-3",
+        name: "Samsung Galaxy Tab S8",
+        brand: "Samsung",
+        type: "Tablet",
+        price: 54999,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/91of7KmzJ0L._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-4",
+        name: "Canon EOS 1500D DSLR Camera",
+        brand: "Canon",
+        type: "DSLR Camera",
+        price: 36990,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/71nR43IF4yL._AC_SY450_.jpg"
+    },
+    {
+        id: "ele-5",
+        name: "LG OLED TV",
+        brand: "LG",
+        type: "Smart OLED TV",
+        price: 79999,
+        rating: 4.8,
+        image: "https://m.media-amazon.com/images/I/81lXT5f60KL._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-6",
+        name: "JBL Flip 5 Bluetooth Speaker",
+        brand: "JBL",
+        type: "Bluetooth Speaker",
+        price: 6999,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/61aaWi84g7L._AC_SY450_.jpg"
+    },
+    {
+        id: "ele-7",
+        name: "Fitbit Charge 5 Fitness Tracker",
+        brand: "Fitbit",
+        type: "Fitness Tracker",
+        price: 9999,
+        rating: 4.6,
+        image: "https://m.media-amazon.com/images/I/61kmR3vVGqL._AC_SY450_.jpg"
+    },
+    {
+        id: "ele-8",
+        name: "OnePlus 10 Pro",
+        brand: "OnePlus",
+        type: "Smartphone",
+        price: 64999,
+        rating: 4.8,
+        image: "https://m.media-amazon.com/images/I/710nR2-IjRL._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-9",
+        name: "Dell XPS 13 Laptop",
+        brand: "Dell",
+        type: "Laptop",
+        price: 114990,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/71F0ElVFl5L._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-10",
+        name: "Google Nest Thermostat",
+        brand: "Google",
+        type: "Smart Thermostat",
+        price: 6499,
+        rating: 4.6,
+        image: "https://m.media-amazon.com/images/I/61cqWnDz+qL._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-11",
+        name: "Bose QuietComfort Earbuds",
+        brand: "Bose",
+        type: "Earbuds",
+        price: 24999,
+        rating: 4.8,
+        image: "https://m.media-amazon.com/images/I/71pcvsImrrL._AC_SY450_.jpg"
+    },
+    {
+        id: "ele-12",
+        name: "Xiaomi Mi Smart Band 6",
+        brand: "Xiaomi",
+        type: "Fitness Band",
+        price: 2999,
+        rating: 4.6,
+        image: "https://m.media-amazon.com/images/I/61Wq9FzQFL._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-13",
+        name: "Apple AirPods Pro",
+        brand: "Apple",
+        type: "Earbuds",
+        price: 24990,
+        rating: 4.9,
+        image: "https://m.media-amazon.com/images/I/81Xxh+a-xwL._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-14",
+        name: "Sony PlayStation 5",
+        brand: "Sony",
+        type: "Gaming Console",
+        price: 49999,
+        "rating": 4.9,
+        image: "https://m.media-amazon.com/images/I/81E7gMUS43L._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-15",
+        name: "Samsung Galaxy Watch 4",
+        brand: "Samsung",
+        type: "Smartwatch",
+        price: 16999,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/71Qy-t+lISL._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-16",
+        name: "Amazon Echo Show 8",
+        brand: "Amazon",
+        type: "Smart Display",
+        price: 9999,
+        rating: 4.6,
+        image: "https://m.media-amazon.com/images/I/91Z4w8Yj8LL._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-17",
+        name: "Samsung Galaxy Buds Live",
+        brand: "Samsung",
+        type: "Earbuds",
+        price: 9999,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/71deKmjOl0L._AC_SY450_.jpg"
+    },
+    {
+        id: "ele-18",
+        name: "Lenovo Yoga 7i Laptop",
+        brand: "Lenovo",
+        type: "Laptop",
+        price: 74990,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/91ENpa4YoAL._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-19",
+        "name": "GoPro HERO10 Black",
+        brand: "GoPro",
+        type: "Action Camera",
+        price: 49999,
+        rating: 4.8,
+        image: "https://m.media-amazon.com/images/I/71oFvqg8fsL._AC_SY679_.jpg"
+    },
+    {
+        id: "ele-20",
+        name: "Microsoft Xbox Series X",
+        brand: "Microsoft",
+        type: "Gaming Console",
+        price: 49999,
+        rating: 4.9,
+        image: "https://m.media-amazon.com/images/I/71I5r7O1IqL._AC_SY679_.jpg"
+    }
+]
+,
+            fashion: [
+    {
+        id: "fa-1",
+        name: "Nike Athletic Shorts",
+        brand: "Nike",
+        type: "Sportswear",
+        price: 749,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBD2_Vl-K993g3_mlICkiDzTXr2DxMMSJGbs3VLEHFpd5cZRH9iXdDYTSft2vUjfvLwKA&usqp=CAU"
+    },
+    {
+        id: "fa-2",
+        name: "Adidas Backpacks",
+        brand: "Adidas",
+        type: "Backpacks",
+        price: 1799,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/61OFU8k7TSL.AC_UY1100.jpg"
+    },
+    {
+        id: "fa-3",
+        name: "Band Uniforms",
+        brand: "Custom",
+        type: "Uniforms",
+        price: 2000,
+        rating: 4.7,
+        image: "https://i.pinimg.com/236x/3b/d6/1d/3bd61d1bad3d55a8a93dd9a688377887.jpg"
+    },
+    {
+        id: "fa-4",
+        name: "Puma Blazers",
+        brand: "Puma",
+        type: "Blazers",
+        price: 4499,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfKWO2KL6wBu1e9MFJSDVUbFNaD0VzLYOmQQ&s"
+    },
+    {
+        id: "fa-5",
+        name: "Everlast Boxing Gloves",
+        brand: "Everlast",
+        type: "Boxing Equipment",
+        price: 2423,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wn7RT4_z81RvOW-Ich7Yc_7Tb6RtpMfqpg&s"
+    },
+    {
+        id: "fa-6",
+        name: "H&M Cardigans",
+        brand: "H&M",
+        type: "Casual Wear",
+        price: 729,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW3QVESacGSoqTewIiDezLN_u8UnE3Cb-aOA&s"
+    },
+    {
+        id: "fa-7",
+        name: "Michael Kors Clutches",
+        brand: "Michael Kors",
+        type: "Clutches",
+        price: 700,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHIMASzg7jgV07LD4F8pzBLuNUbuzOPn9vtg&s"
+    },
+    {
+        id: "fa-8",
+        name: "Cosplay Costumes",
+        brand: "Various",
+        type: "Cosplay",
+        price: 2499,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXwxNg8MLuKAF2KJuVosb1XItpH3w6KoO9g&s"
+    },
+    {
+        id: "fa-9",
+        name: "Levi's Denim Jackets",
+        brand: "Levi's",
+        type: "Outerwear",
+        price: 1356,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbZrZ3YM7gmU3Kkp_mWTAxaQKwpEYPNAmtw&s"
+    },
+    {
+        id: "fa-10",
+        name: "Zara Earrings",
+        brand: "Zara",
+        type: "Jewelry",
+        price: 557,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajzg8PqOKkTTk-vD_KukEtjbw4R7qxaUfYw&s"
+    },
+    {
+        id: "fa-11",
+        name: "Ray-Ban Sunglasses",
+        brand: "Ray-Ban",
+        type: "Eyewear",
+        price: 399,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-t3FggVaXy0fXKpfXy9NQBZRnjfxdSBD_g&s"
+    },
+    {
+        id: "fa-12",
+        name: "Van Heusen Formal Shirt",
+        brand: "Van Heusen",
+        type: "Shirts",
+        price: 999,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKYQOe3VWAC8_Dn1O62lmu2SlgHHLszGWcg&s"
+    },
+    {
+        id: "fa-13",
+        name: "Fossil Handbags",
+        brand: "Fossil",
+        type: "Handbags",
+        price: 489,
+        rating: 4.7,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86SzWuVzkQl6sxjCtsHlwE5xLpe6FUPnQmA&s"
+    },
+    {
+        id: "fa-14",
+        name: "Steve Madden Heels",
+        brand: "Steve Madden",
+        type: "Footwear",
+        price: 1099,
+        rating: 4.7,
+        image: "https://i.pinimg.com/736x/91/c6/ab/91c6ab301b193ee472e13d4913994904.jpg"
+    },
+    {
+        id: "fa-15",
+        name: "Levi's Skinny Jeans",
+        brand: "Levi's",
+        type: "Bottom Wear",
+        price: 1399,
+        rating: 4.6,
+        image: ""
+    },
+    {
+        id: "fa-16",
+        name: "Vero Moda Dresses",
+        brand: "Vero Moda",
+        type: "Dresses",
+        price: 1799,
+        rating: 4.5,
+        image: ""
+    },
+    {
+        id: "fa-17",
+        name: "H&M Skirts",
+        brand: "H&M",
+        type: "Bottom Wear",
+        price: 799,
+        rating: 4.6,
+        image: ""
+    },
+    {
+        id: "fa-18",
+        name: "Biba Kurtis",
+        brand: "Biba",
+        type: "Ethnic Wear",
+        price: 1599,
+        rating: 4.7,
+        image: ""
+    },
+    {
+        id: "fa-19",
+        name: "Puma Sneakers",
+        brand: "Puma",
+        type: "Footwear",
+        price: 2999,
+        rating: 4.8,
+        image: ""
+    },
+    {
+        id: "fa-20",
+        name: "Calvin Klein T-Shirt",
+        brand: "Calvin Klein",
+        type: "Casual Wear",
+        price: 1599,
+        rating: 4.6,
+        image: ""
+    }
+],
+    home: [
+    {
+        id: "ha-1",
+        name: "Samsung Refrigerator",
+        type: "Double Door Refrigerator",
+        price: 28999,
+        rating: 4.8,
+        image: "https://m.media-amazon.com/images/I/71sJ+4FDPHL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-2",
+        name: "LG Washing Machine",
+        type: "Front Load Washing Machine",
+        price: 24999,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/71C3YRUfw-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-3",
+        name: "Philips Air Fryer",
+        type: "Digital Air Fryer",
+        price: 8999,
+        rating: 4.6,
+        image: "https://m.media-amazon.com/images/I/71H3NSN5p9L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-4",
+        name: "Dyson Vacuum Cleaner",
+        type: "Cordless Stick Vacuum Cleaner",
+        price: 34999,
+        rating: 4.9,
+        image: "https://m.media-amazon.com/images/I/71HvYy18KxL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-5",
+        name: "Bajaj Microwave Oven",
+        type: "Convection Microwave",
+        price: 10499,
+        rating: 4.5,
+        image: "https://m.media-amazon.com/images/I/61OkQhThsTL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-6",
+        name: "Panasonic Mixer Grinder",
+        type: "750W Mixer Grinder",
+        price: 5299,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/61GlNYvS3qL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-7",
+        name: "Havells Water Purifier",
+        type: "RO+UV Water Purifier",
+        price: 15999,
+        rating: 4.6,
+        image: "https://m.media-amazon.com/images/I/81FZvmnYlzL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-8",
+        name: "Usha Ceiling Fan",
+        type: "3-Blade Ceiling Fan",
+        price: 3499,
+        rating: 4.5,
+        image: "https://m.media-amazon.com/images/I/61FsJa8fqHL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-9",
+        name: "Eureka Forbes Geyser",
+        type: "Instant Water Heater",
+        price: 6499,
+        rating: 4.6,
+        image: "https://m.media-amazon.com/images/I/51HJaArvUjL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-10",
+        name: "Sony Home Theater",
+        type: "5.1 Surround Sound System",
+        price: 29999,
+        rating: 4.8,
+        image: "https://m.media-amazon.com/images/I/81jA2G1vBdL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-11",
+        name: "Orient Electric Room Heater",
+        type: "Quartz Room Heater",
+        price: 3299,
+        rating: 4.4,
+        image: "https://m.media-amazon.com/images/I/51ex6+76wwL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-12",
+        name: "Voltas Air Conditioner",
+        type: "1.5 Ton Split AC",
+        price: 32999,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/61kq4MmvM8L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-13",
+        name: "Prestige Induction Cooktop",
+        type: "2000W Induction Stove",
+        price: 3999,
+        rating: 4.6,
+        image: "https://m.media-amazon.com/images/I/71qAOhzXH1L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-14",
+        name: "Kent Chimney",
+        type: "Auto Clean Kitchen Chimney",
+        price: 18999,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/71R7lA5Xw9L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-15",
+        name: "Whirlpool Deep Freezer",
+        type: "Chest Freezer",
+        price: 21999,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/61E-RipJ1wL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-16",
+        name: "Croma Air Purifier",
+        type: "HEPA Filter Air Purifier",
+        price: 9999,
+        rating: 4.5,
+        image: "https://m.media-amazon.com/images/I/71XUoX-FH7L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-17",
+        name: "Sanyo LED TV",
+        type: "Smart LED TV",
+        price: 24999,
+        rating: 4.4,
+        image: "https://m.media-amazon.com/images/I/91UblOLa0lL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-18",
+        name: "Karcher High Pressure Washer",
+        type: "Electric Pressure Washer",
+        price: 12999,
+        rating: 4.7,
+        image: "https://m.media-amazon.com/images/I/61-Ut9be-JL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-19",
+        name: "Black+Decker Coffee Maker",
+        type: "Coffee Brewing Machine",
+        price: 3499,
+        rating: 4.3,
+        image: "https://m.media-amazon.com/images/I/71B5UnvV2TL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        id: "ha-20",
+        name: "Samsung Microwave Oven",
+        type: "Grill Microwave",
+        price: 16999,
+        rating: 4.6,
+        image: "https://m.media-amazon.com/images/I/81W4HgwD0QL._AC_UF1000,1000_QL80_.jpg"
+    }
+]
+
+        };
