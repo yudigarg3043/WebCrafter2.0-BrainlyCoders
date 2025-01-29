@@ -725,7 +725,7 @@ books: [
         "genre": "Fiction",
         price: 499,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/71aFt4+XTlL._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rivxzWfS_59cr1eaAK3DaWohC_bp48QgBw&s"
     },
     {
         id: "book-2",
@@ -734,7 +734,7 @@ books: [
         "genre": "Biography",
         price: 899,
         rating: 4.9,
-        image: "https://m.media-amazon.com/images/I/81h2gWPTYlL._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rtHG95UtkCYeJOgyOYlk2iGgobGzN1aa7g&s"
     },
     {
         id: "book-3",
@@ -743,7 +743,7 @@ books: [
         "genre": "Non-fiction",
         price: 749,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/91YyVsKwefL._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQF5xrR_9QsaHLB4Wv8UVZ0UdDrwi5bXx5uQ&s"
     },
     {
         id: "book-4",
@@ -752,7 +752,7 @@ books: [
         "genre": "Mystery",
         price: 649,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/91fJ49TzRRL._AC_SY679_.jpg"
+        image: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582135294i/36809135.jpg"
     },
     {
         id: "book-5",
@@ -761,7 +761,7 @@ books: [
         "genre": "Self-Help",
         price: 799,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/91bYAB63Q8L._AC_SY679_.jpg"
+        image: "https://images-na.ssl-images-amazon.com/images/I/615bheKNgEL._AC_UL600_SR600,600_.jpg"
     },
     {
         id: "book-6",
@@ -770,7 +770,7 @@ books: [
         "genre": "Thriller",
         price: 699,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/81w+q2KwL9L._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv4xbRWzlZZKpi-1kzTi-xeyNZIDUdF-A3pw&s"
     },
     {
         id: "book-7",
@@ -779,7 +779,7 @@ books: [
         "genre": "Fiction",
         price: 499,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/71tBNO98Y4L._AC_SY679_.jpg"
+        image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692820079l/51879720.jpg"
     },
     {
         id: "book-8",
@@ -788,7 +788,7 @@ books: [
         "genre": "Memoir",
         price: 799,
         rating: 4.9,
-        image: "https://m.media-amazon.com/images/I/91hW2LwqFyL._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcuLipdReOGjslChgAkOoTA__dHAuugazLwA&s"
     },
     {
         id: "book-9",
@@ -797,7 +797,7 @@ books: [
         "genre": "Classics",
         price: 399,
         rating: 4.6,
-        image: "https://m.media-amazon.com/images/I/81D6zkt+ruL._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKi5lknrw7SIwZ01RQRqyvtXz2bFxrUsGVpA&s"
     },
     {
         id: "book-10",
@@ -806,7 +806,7 @@ books: [
         "genre": "Historical Fiction",
         price: 699,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/81IJs4Wxo1L._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSYS5MCRNf9a3eTWz9X64R5ToG8HfgEBlKGQ&s"
     },
     {
         id: "book-11",
@@ -815,7 +815,7 @@ books: [
         "genre": "Dystopian",
         price: 399,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/91fz9gsEwTL._AC_SY679_.jpg"
+        image: "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/The_Hunger_Games.jpg/220px-The_Hunger_Games.jpg"
     },
     {
         id: "book-12",
@@ -824,7 +824,7 @@ books: [
         "genre": "Fantasy",
         price: 699,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/81fZVrjcnVL._AC_SY679_.jpg"
+        image: "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/The_Hunger_Games.jpg/220px-The_Hunger_Games.jpg"
     },
     {
         id: "book-13",
@@ -833,7 +833,7 @@ books: [
         "genre": "Self-Help",
         price: 699,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/91xCZbXhxBL._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PqHT8IIpKr2e3HYyszRBjzpZ6C7krNRdyQ&s"
     },
     {
         id: "book-14",
@@ -842,7 +842,7 @@ books: [
         "genre": "Thriller",
         price: 599,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/81Xj6lVuFhL._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUrACNm70PEQ__A-Zs22QQ2wPFNrXY-XnEw&s"
     },
     {
         id: "book-15",
@@ -851,17 +851,10 @@ books: [
         "genre": "Fiction",
         price: 799,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/91zO3hE5d+L._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5Q0Gtc3KsBmSThwEQnFO0NFXl4apxR3btw&s"
     },
-    {
-        id: "book-16",
-        name: "The Four Agreements",
-        "author": "Don Miguel Ruiz",
-        "genre": "Spirituality",
-        price: 499,
-        rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/91nkRm28ahL._AC_SY679_.jpg"
-    },
+   
+       
     {
         id: "book-17",
         name: "The Seven Husbands of Evelyn Hugo",
@@ -869,7 +862,7 @@ books: [
         "genre": "Romance",
         price: 799,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/71wBlumM6wL._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14f0XnUsqeKjLB7CRF7rDWLX4OeYBwVTdWw&s"
     },
     {
         id: "book-18",
@@ -878,7 +871,7 @@ books: [
         "genre": "Self-Help",
         price: 599,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/81bhPbJX5lL._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDg7g4G4noCRirArFlduwDp9Nk6U8FQMxtxA&s"
     },
     {
         id: "book-19",
@@ -887,7 +880,7 @@ books: [
         "genre": "Young Adult",
         price: 499,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/91X4Rr5pDML._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlCjXe5g5dnt9_E1gicrpqVHJJZsHSgWSVtg&s"
     },
     {
         id: "book-20",
@@ -896,7 +889,7 @@ books: [
         "genre": "Fiction",
         price: 599,
         rating: 4.6,
-        image: "https://m.media-amazon.com/images/I/71T5dL5zPLL._AC_SY679_.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQF0RRiPzPI8jMlQKiEOyeHEicsWYBq5Qag&s"
     }
 ],
 beauty: [
