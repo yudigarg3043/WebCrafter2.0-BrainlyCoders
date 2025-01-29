@@ -533,7 +533,7 @@ toys: [
         type: "Building Blocks",
         price: 3499,
         rating: 4.8,
-        image: "https://m.media-amazon.com/images/I/91C+dMhwnrL.AC_SY679.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpDIYSDF52zhb2I5T2aKNN27bG38WokYevA&s"
     },
     {
         id: "toy-2",
@@ -542,7 +542,7 @@ toys: [
         type: "Dollhouse",
         price: 9999,
         rating: 4.7,
-        image: "https://m.media-amazon.com/images/I/91d5hthzI7L.AC_SY679.jpg"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrdIl7uihSKyYPyKWtti7Ox0x7W3QdHpabg&s"
     },
     {
         id: "toy-3",
